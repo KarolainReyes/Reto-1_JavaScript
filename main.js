@@ -16,7 +16,7 @@ while (salir === false) {
             validarExpresion()
             break;
         case "2":
-            alert("Haz salido con éxito de nuestro programa");
+            alert("Haz salido con éxito de nuestro programa!");
             salir = true;
             break;
         default: 
