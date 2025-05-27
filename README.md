@@ -1,2 +1,2 @@
 # Reto-1_JavaScript
-Reto sobre validador de expresiones equilibradas
+Reto sobre validador de expresiones equilibradas, este progrma le permite al usuario validar si una expresión esta equilibrada, es decir si sus delimitadores paréntesis (), llaves {} o corchetes estan en pares y cerrados correctamente, implementa un menù interactivo en donde el usuario ingresa la expresión y recibe la repuesta sobre si su expresión esta correctamente equilibrada o no.
